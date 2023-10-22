@@ -2,11 +2,13 @@
 
 ## Problem Statement
 
-There are a lot of government programs avialable to the public however there several barriers preventing the maximum amount of people igning up to these programs
+There are a lot of government programs avialable to the public however there several barriers preventing the maximum amount of people signing up to these programs
 
 - language barriers
 - technological limitations (lack of phone)
 - potential disablities
+
+
 
 ## Goal of project
 
@@ -21,3 +23,9 @@ The goal of this project is to:
 - twillio
 - claude (Potentially)
 - OpenAI (Pontentially)
+
+## References
+
+[] https://data.cityofnewyork.us/Business/Courses-Training-Provider-Listing/fgq8-am2v
+[] https://access.nyc.gov/
+[] blockparty.studio/Archive
