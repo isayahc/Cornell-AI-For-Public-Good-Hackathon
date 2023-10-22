@@ -24,6 +24,10 @@ The goal of this project is to:
 - claude (Potentially)
 - OpenAI (Pontentially)
 
+## Python version 
+
+This project uses python 3.10
+
 ## References
 
 [] https://data.cityofnewyork.us/Business/Courses-Training-Provider-Listing/fgq8-am2v
