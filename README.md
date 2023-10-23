@@ -18,6 +18,10 @@ The goal of this project is to:
 - provide agencies with insigths of what nyc residence want or need
 - maximumize the residence signed up with programs, making sure valuable programs get the funding they need
 
+## Demo
+
+![Example of a question](https://github.com/isayahc/Cornell-AI-For-Public-Good-Hackathon/blob/main/assets/UI%20sample.png)
+
 ## APIs
 
 - twillio
