@@ -17,6 +17,7 @@ def load_data() -> VectorStoreIndex:
 
 # Header and chat prompt
 st.header("🗽 NYC Skill Accelerator 💬 📚")
+st.subheader("Hello NYer, looking for a way to learn new interesting skills! Well Ask me and I can help you. Don't speak English? No worries.")
 chat_prompt = """
 You are given a .csv file for program related to career training. 
 You must provide the user with answers pertaining to career training and courses that are avaiable based on the user's questions. 
