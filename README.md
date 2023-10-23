@@ -34,6 +34,8 @@ This project uses python 3.10
 
 ## References
 
-[] https://data.cityofnewyork.us/Business/Courses-Training-Provider-Listing/fgq8-am2v
-[] https://access.nyc.gov/
-[] blockparty.studio/Archive
+## References
+
+1. [Courses Training Provider Listing - NYC](https://data.cityofnewyork.us/Business/Courses-Training-Provider-Listing/fgq8-am2v)
+2. [Access NYC](https://access.nyc.gov/)
+3. [Blockparty Studio Archive](https://blockparty.studio/Archive)
